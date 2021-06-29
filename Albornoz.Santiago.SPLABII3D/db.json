@@ -1,0 +1,74 @@
+{
+  "automoviles": [
+    {
+      "id": 2,
+      "titulo": "Megane",
+      "transaccion": "alquiler",
+      "descripcion": "facherito",
+      "precio": "5000",
+      "num_puertas": "5",
+      "num_KMS": "500",
+      "potencia": "350"
+    },
+    {
+      "id": 3,
+      "titulo": "Porsche",
+      "transaccion": "venta",
+      "descripcion": "facheron",
+      "precio": "100000",
+      "num_puertas": "3",
+      "num_KMS": "1000",
+      "potencia": "600"
+    },
+    {
+      "id": 4,
+      "titulo": "Partner",
+      "transaccion": "venta",
+      "descripcion": "utilitario",
+      "precio": "800000",
+      "num_puertas": "5",
+      "num_KMS": "10000",
+      "potencia": "600"
+    },
+    {
+      "id": 5,
+      "titulo": "Peugeot",
+      "transaccion": "alquiler",
+      "descripcion": "negrito",
+      "precio": "50000",
+      "num_puertas": "5",
+      "num_KMS": "5000",
+      "potencia": "300"
+    },
+    {
+      "id": 6,
+      "titulo": "Fiat",
+      "transaccion": "venta",
+      "descripcion": "blanquito",
+      "precio": "50000",
+      "num_puertas": "3",
+      "num_KMS": "5000",
+      "potencia": "300"
+    },
+    {
+      "id": 7,
+      "titulo": "hyundai",
+      "transaccion": "alquiler",
+      "descripcion": "japon",
+      "precio": "200000",
+      "num_puertas": "3",
+      "num_KMS": "0",
+      "potencia": "800"
+    },
+    {
+      "id": 8,
+      "titulo": "Ecosport",
+      "transaccion": "venta",
+      "descripcion": "camio",
+      "precio": "1200000",
+      "num_puertas": "5",
+      "num_KMS": "20000",
+      "potencia": "650"
+    }
+  ]
+}

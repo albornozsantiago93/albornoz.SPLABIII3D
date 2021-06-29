@@ -1,0 +1,17 @@
+{
+  "name": "parcial",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.0.2",
+    "jquery": "^3.6.0",
+    "json-server": "^0.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "server": "json-server --watch db.json"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
